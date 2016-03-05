@@ -1,1 +1,1 @@
-Webpage of Git Tutorial!!
+This is the web-page of Git Tutorial!!
